@@ -8,6 +8,18 @@
 ### Source Code
 * https://github.com/ibab/tensorflow-wavenet
 
+## Deep Voice
+### Paper
+* Deep Voice: Real-time Neural Text-to-Speech(2017) : https://arxiv.org/abs/1702.07825
+
+## Deep Voice 2
+### Paper
+* Deep Voice 2: Multi-Speaker Neural Text-to-Speech(2017) : https://arxiv.org/abs/1705.08947
+
+## Deep Voice 3
+### Paper
+* Deep Voice 3: Scaling Text-to-Speech with Convolutional Sequence Learning : https://arxiv.org/abs/1710.07654
+
 ## Tacotron
 ### Paper
 * Tacotron: Towards End-to-End Speech Synthesis(2017) : https://arxiv.org/abs/1703.10135
@@ -16,6 +28,6 @@
 * https://github.com/keithito/tacotron
 * https://github.com/Kyubyong/tacotron
 
-## Tacotron2
+## Tacotron 2
 ### Paper
-* Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions : https://arxiv.org/abs/1712.05884
+* Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions(2017) : https://arxiv.org/abs/1712.05884
