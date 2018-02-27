@@ -4,6 +4,9 @@
 ## Lectures & Seminars
 * 책 읽어주는 딥러닝 (김태훈, 2017.11) - http://tv.naver.com/v/2292650
 
+## Dataset
+* The LJ Speech Dataset - https://keithito.com/LJ-Speech-Dataset/
+
 ## Wavenet
 ### Paper
 * WaveNet: A Generative Model for Raw Audio(2016) : https://arxiv.org/abs/1609.03499
@@ -21,7 +24,7 @@
 
 ## Deep Voice 3
 ### Paper
-* Deep Voice 3: Scaling Text-to-Speech with Convolutional Sequence Learning : https://arxiv.org/abs/1710.07654
+* Deep Voice 3: Scaling Text-to-Speech with Convolutional Sequence Learning(2017) : https://arxiv.org/abs/1710.07654
 
 ### Source Code
 * https://github.com/Kyubyong/deepvoice3
