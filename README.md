@@ -7,24 +7,30 @@
 ## Dataset
 * The LJ Speech Dataset - https://keithito.com/LJ-Speech-Dataset/
 
-## Wavenet
+## WaveNet
 ### Paper
-* WaveNet: A Generative Model for Raw Audio(2016) : https://arxiv.org/abs/1609.03499
+* WaveNet: A Generative Model for Raw Audio(2016) - https://arxiv.org/abs/1609.03499
 
 ### Source Code
 * https://github.com/ibab/tensorflow-wavenet
 
+## Parallel WaveNet 
+### Paper
+* Parallel WaveNet: Fast High-Fidelity Speech Synthesis(2017.11) - https://arxiv.org/abs/1711.10433
+### Source Code
+
+
 ## Deep Voice
 ### Paper
-* Deep Voice: Real-time Neural Text-to-Speech(2017) : https://arxiv.org/abs/1702.07825
+* Deep Voice: Real-time Neural Text-to-Speech(2017) - https://arxiv.org/abs/1702.07825
 
 ## Deep Voice 2
 ### Paper
-* Deep Voice 2: Multi-Speaker Neural Text-to-Speech(2017) : https://arxiv.org/abs/1705.08947
+* Deep Voice 2: Multi-Speaker Neural Text-to-Speech(2017) - https://arxiv.org/abs/1705.08947
 
 ## Deep Voice 3
 ### Paper
-* Deep Voice 3: Scaling Text-to-Speech with Convolutional Sequence Learning(2017) : https://arxiv.org/abs/1710.07654
+* Deep Voice 3: Scaling Text-to-Speech with Convolutional Sequence Learning(2017) - https://arxiv.org/abs/1710.07654
 
 ### Source Code
 * https://github.com/Kyubyong/deepvoice3
@@ -39,7 +45,7 @@
 
 ## Tacotron 2
 ### Paper
-* Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions(2017) : https://arxiv.org/abs/1712.05884
+* Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions(2017) - https://arxiv.org/abs/1712.05884
 
 ### Source Code
 * https://carpedm20.github.io/tacotron/ (한국어 버전)
