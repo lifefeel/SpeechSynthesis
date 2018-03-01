@@ -27,7 +27,8 @@
 
 ### Source Code
 * https://github.com/ibab/tensorflow-wavenet
-* https://github.com/r9y9/wavenet_vocoder (pytorch)
+* https://github.com/r9y9/wavenet_vocoder (PyTorch)
+* https://github.com/kan-bayashi/PytorchWaveNetVocoder (PyTorch)
 
 ## Fast WaveNet
 ### Paper
