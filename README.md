@@ -19,6 +19,9 @@
 ### Paper
 * [WaveNet: A Generative Model for Raw Audio (2016.09)](https://arxiv.org/abs/1609.03499)
 
+### Articles
+* [WaveNet: A Generative Model for Raw Audio (DeepMind Blog)](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
+
 ### Source Code
 * https://github.com/ibab/tensorflow-wavenet
 * https://github.com/r9y9/wavenet_vocoder (pytorch)
@@ -26,6 +29,9 @@
 ## Parallel WaveNet 
 ### Paper
 * [Parallel WaveNet: Fast High-Fidelity Speech Synthesis (2017.11)](https://arxiv.org/abs/1711.10433)
+
+### Articles
+* [High-fidelity speech synthesis with WaveNet (DeepMind Blog)](https://deepmind.com/blog/high-fidelity-speech-synthesis-wavenet/) 
 ### Source Code
 
 
