@@ -23,12 +23,12 @@
 
 ### Articles
 * [WaveNet: A Generative Model for Raw Audio (DeepMind Blog)](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
-* [WaveNet Vocoder Samples](https://kan-bayashi.github.io/WaveNetVocoderSamples/)
 
 ### Source Code
 * https://github.com/ibab/tensorflow-wavenet
 * https://github.com/r9y9/wavenet_vocoder (PyTorch)
 * https://github.com/kan-bayashi/PytorchWaveNetVocoder (PyTorch)
+  * [WaveNet Vocoder Samples](https://kan-bayashi.github.io/WaveNetVocoderSamples/)
 
 ## Fast WaveNet
 ### Paper
