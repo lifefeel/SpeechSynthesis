@@ -8,8 +8,13 @@
   * WaveNet에 대해 이해한 것을 설명 및 온라인 토론내용이 담긴 영상
   
 ## Dataset
-* [The LJ Speech Dataset](https://keithito.com/LJ-Speech-Dataset/)
-
+* [CMU_ARCTIC (en)](http://festvox.org/cmu_arctic/)
+  * CMU의 Language Technologies Institute에서 음성합성 연구를 위해 만든 US English 데이터셋
+* [The LJ Speech Dataset (en)](https://keithito.com/LJ-Speech-Dataset/)
+  * Keith Ito란 사람의 웹사이트에 올라와 있지만 어디서, 왜 만들었는지에 대한 내용은 찾지 못함
+* [Blizzard 2012](http://www.cstr.ed.ac.uk/projects/blizzard/2012/phase_one/)
+  * Blizzard Challenge 2012라는 코퍼스기반 음성합성 챌린지에서 사용된 데이터셋
+  
 ## WaveNet
 ### Paper
 * [WaveNet: A Generative Model for Raw Audio (2016.09)](https://arxiv.org/abs/1609.03499)
