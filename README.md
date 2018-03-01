@@ -23,10 +23,21 @@
 
 ### Articles
 * [WaveNet: A Generative Model for Raw Audio (DeepMind Blog)](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
+* [WaveNet Vocoder Samples](https://kan-bayashi.github.io/WaveNetVocoderSamples/)
 
 ### Source Code
 * https://github.com/ibab/tensorflow-wavenet
 * https://github.com/r9y9/wavenet_vocoder (pytorch)
+
+## Fast WaveNet
+### Paper
+* [Fast Wavenet Generation Algorithm (2016.11)](https://arxiv.org/abs/1611.09482)
+
+### Articles
+
+### Source Code
+* https://github.com/tomlepaine/fast-wavenet
+* https://github.com/dhpollack/fast-wavenet.pytorch (PyTorch)
 
 ## Parallel WaveNet 
 ### Paper
@@ -35,6 +46,7 @@
 ### Articles
 * [High-fidelity speech synthesis with WaveNet (DeepMind Blog)](https://deepmind.com/blog/high-fidelity-speech-synthesis-wavenet/) 
 ### Source Code
+* https://github.com/kensun0/Parallel-Wavenet (not a complete implement)
 
 
 ## Deep Voice
