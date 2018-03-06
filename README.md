@@ -1,4 +1,4 @@
-# SpeechSynthesis
+# Text-to-Speech Synthesis
 딥러닝을 이용한 음성합성 관련 자료 모음
 
 ## Lectures & Seminars
@@ -6,6 +6,8 @@
   * Tacotron에 대해 쉽게 이해할 수 있도록 DEVIEW 2017에서 발표한 영상
 * [모두의 연구소 WaveNet 스터디 영상 (김승일, 2017.10)](https://youtu.be/GyQnex_DK2k)
   * WaveNet에 대해 이해한 것을 설명 및 온라인 토론내용이 담긴 영상
+* [Generative Model-Based Text-to-Speech Synthesis (Heiga Zen, 2017.02)](https://youtu.be/nsrSrYtKkT8)
+  * WaveNet 논문 저자 중 1명인 Heiga Zen이 소개하는 TTS 전반적인 기술 및 WaveNet 소개 영상
   
 ## Dataset
 * [CMU_ARCTIC (en)](http://festvox.org/cmu_arctic/)
