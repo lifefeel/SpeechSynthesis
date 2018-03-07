@@ -80,6 +80,8 @@
 ### Paper
 * [Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions (2017.12)](https://arxiv.org/abs/1712.05884)
 
+### Articles
+* [Tacotron 2: Generating Human-like Speech from Text (Google Research Blog)](https://research.googleblog.com/2017/12/tacotron-2-generating-human-like-speech.html)
 ### Source Code
 * https://carpedm20.github.io/tacotron/ (한국어 버전)
 * https://github.com/riverphoenix/tacotron2 (구현됨)
