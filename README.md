@@ -66,6 +66,7 @@
 
 ### Source Code
 * https://github.com/Kyubyong/deepvoice3
+* https://github.com/r9y9/deepvoice3_pytorch (PyTorch)
 
 ## Tacotron
 ### Paper
