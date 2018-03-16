@@ -32,6 +32,13 @@
 * https://github.com/kan-bayashi/PytorchWaveNetVocoder (PyTorch)
   * [WaveNet Vocoder Samples](https://kan-bayashi.github.io/WaveNetVocoderSamples/)
 
+#### Multi-GPU
+WaveNet 학습시간이 너무 오래 걸려서 멀티 GPU를 이용하지 않으면 답이 나오지 않는 것 같다. 그와 관련된 코드 링크를 정리하였다.
+* https://github.com/nakosung/tensorflow-wavenet/tree/multigpu (Tensorflow)
+  * WaveNet multi GPU 구현 버전
+* https://github.com/nakosung/tensorflow-wavenet/tree/model_parallel (Tensorflow)
+  * WaveNet model parallelism 구현 버전
+
 ## Fast WaveNet
 ### Paper
 * [Fast Wavenet Generation Algorithm (2016.11)](https://arxiv.org/abs/1611.09482)
@@ -42,7 +49,7 @@
 * https://github.com/tomlepaine/fast-wavenet
 * https://github.com/dhpollack/fast-wavenet.pytorch (PyTorch)
 
-## Parallel WaveNet 
+## Parallel WaveNet
 ### Paper
 * [Parallel WaveNet: Fast High-Fidelity Speech Synthesis (2017.11)](https://arxiv.org/abs/1711.10433)
 
