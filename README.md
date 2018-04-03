@@ -83,6 +83,8 @@ WaveNet 학습시간이 너무 오래 걸려서 멀티 GPU를 이용하지 않�
 * https://github.com/keithito/tacotron
 * https://github.com/Kyubyong/tacotron
 * https://github.com/barronalex/Tacotron
+* https://carpedm20.github.io/tacotron/ (Multi-speaker Tacotron in TensorFlow)
+  * Tactron 1과 Deep Voice 2의 Multi-speaker를 구현한 프로젝트
 
 ## Tacotron 2
 ### Paper
@@ -91,10 +93,10 @@ WaveNet 학습시간이 너무 오래 걸려서 멀티 GPU를 이용하지 않�
 ### Articles
 * [Tacotron 2: Generating Human-like Speech from Text (Google Research Blog)](https://research.googleblog.com/2017/12/tacotron-2-generating-human-like-speech.html)
 ### Source Code
-* https://carpedm20.github.io/tacotron/ (한국어 버전)
 * https://github.com/riverphoenix/tacotron2 (구현됨)
 * https://github.com/Rayhane-mamah/Tacotron-2 (구현중)
 * https://github.com/selap91/Tacotron2 (구현중)
+* https://github.com/CapstoneInha/Tacotron2-rehearsal
 * https://github.com/maozhiqiang/tacotron_cn (구현 확인 필요/중국어)
 * https://github.com/LGizkde/Tacotron2_Tao_Shujie (체크 필요)
 * https://github.com/ruclion/tacotron_with_style_control (Style Control)
