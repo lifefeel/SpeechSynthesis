@@ -97,6 +97,7 @@ WaveNet 학습시간이 너무 오래 걸려서 멀티 GPU를 이용하지 않�
 * https://github.com/Rayhane-mamah/Tacotron-2 (구현중)
 * https://github.com/selap91/Tacotron2 (구현중)
 * https://github.com/CapstoneInha/Tacotron2-rehearsal
+* https://github.com/A-Jacobson/tacotron2 (PyTorch)
 * https://github.com/maozhiqiang/tacotron_cn (구현 확인 필요/중국어)
 * https://github.com/LGizkde/Tacotron2_Tao_Shujie (체크 필요)
 * https://github.com/ruclion/tacotron_with_style_control (Style Control)
