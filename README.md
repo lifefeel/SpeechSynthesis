@@ -58,6 +58,9 @@ WaveNet 학습시간이 너무 오래 걸려서 멀티 GPU를 이용하지 않�
 ### Source Code
 * https://github.com/kensun0/Parallel-Wavenet (not a complete implement)
 
+## WaveRNN
+### Paper
+* [Efficient Neural Audio Synthesis (2018.02)](https://arxiv.org/abs/1802.08435)
 
 ## Deep Voice
 ### Paper
