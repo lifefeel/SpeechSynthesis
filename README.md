@@ -17,7 +17,9 @@
 * [Blizzard 2012 (en)](http://www.cstr.ed.ac.uk/projects/blizzard/2012/phase_one/)
   * Blizzard Challenge 2012라는 코퍼스기반 음성합성 챌린지에서 사용된 데이터셋
 * [CSTR VCTK Corpus (en)](http://homepages.inf.ed.ac.uk/jyamagis/page3/page58/page58.html)
-  * English Multi-speaker Corpus for CSTR Voice Cloning Toolkit 
+  * English Multi-speaker Corpus for CSTR Voice Cloning Toolkit
+### 한국어 코퍼스
+* [KSS Dataset: Korean Single speaker Speech Dataset](https://www.kaggle.com/bryanpark/korean-single-speaker-speech-dataset)
   
 ## WaveNet
 ### Paper
