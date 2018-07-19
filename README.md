@@ -107,3 +107,9 @@ WaveNet 학습시간이 너무 오래 걸려서 멀티 GPU를 이용하지 않�
 * https://github.com/LGizkde/Tacotron2_Tao_Shujie (체크 필요)
 * https://github.com/ruclion/tacotron_with_style_control (Style Control)
 
+## Voice Cloning
+* [ISPEECH VOICE CLONING DEMOS](https://www.ispeech.org/voice-cloning)
+  * 유명한 사람들의 voice cloning 데모를 들어볼 수 있음
+### Paper
+* [Neural Voice Cloning with a Few Samples (2018.02)](https://arxiv.org/abs/1802.06006)
+
