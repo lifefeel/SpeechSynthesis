@@ -115,3 +115,6 @@ WaveNet 학습시간이 너무 오래 걸려서 멀티 GPU를 이용하지 않�
 ### Paper
 * [Neural Voice Cloning with a Few Samples (2018.02)](https://arxiv.org/abs/1802.06006)
 
+## Speed Up 전략
+* [Fast Generation for Convolutional Autoregressive Models (2017.04)](https://arxiv.org/abs/1704.06001) - Prajit Ramachandran et al.
+  * 이 기법을 Wavenet과 PixelCNN++ 모델에 적용하여 각각 21배, 183배의 속도향상이 있었다고 함.
