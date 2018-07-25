@@ -117,4 +117,4 @@ WaveNet 학습시간이 너무 오래 걸려서 멀티 GPU를 이용하지 않�
 
 ## Speed Up 전략
 * [Fast Generation for Convolutional Autoregressive Models (2017.04)](https://arxiv.org/abs/1704.06001) - Prajit Ramachandran et al.
-  * 이 기법을 Wavenet과 PixelCNN++ 모델에 적용하여 각각 21배, 183배의 속도향상이 있었다고 함.
+  * 이 기법을 Wavenet과 PixelCNN++ 모델에 적용하여 각각 최대 21배, 183배의 속도향상이 있었다고 함. 어디까지나 특정 상황에 대한 성능향상 최대치 이므로 실제 환경에서는 속도향상이 생각보다 크지 않을 수 있다는 것에 주의 필요.
