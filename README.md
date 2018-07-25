@@ -24,7 +24,9 @@
 ## WaveNet
 ### Paper
 * [WaveNet: A Generative Model for Raw Audio (2016.09)](https://arxiv.org/abs/1609.03499)
-
+* [HybridNet: A Hybrid Neural Architecture to Speed-up Autoregressive Models (2018.02)](https://openreview.net/forum?id=rJoXrxZAZ) - Yanqi Zhou et al.
+  * WaveNet보다 MOS가 높고, 오디오 생성속도는 2~4배까지 빠르다고 함.
+  
 ### Articles
 * [WaveNet: A Generative Model for Raw Audio (DeepMind Blog)](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
 
