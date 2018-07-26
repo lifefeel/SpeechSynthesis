@@ -24,8 +24,6 @@
 ## WaveNet
 ### Paper
 * [WaveNet: A Generative Model for Raw Audio (2016.09)](https://arxiv.org/abs/1609.03499)
-* [HybridNet: A Hybrid Neural Architecture to Speed-up Autoregressive Models (2018.02)](https://openreview.net/forum?id=rJoXrxZAZ) - Yanqi Zhou et al.
-  * WaveNet을 이용해 오디오 컨텍스트를 뽑아내고, 그 컨텍스트로부터 LSTM을 이용해 다음 샘플들을 더 빠르게 생성하도록 했다고 함. WaveNet보다 MOS가 높고, 오디오 생성속도는 동일 음질수준 대비 2~4배까지 빠르다고 함. (예: 40-layer WAVENET vs. 20-layer WAVENET + 1 LSTM)
   
 ### Articles
 * [WaveNet: A Generative Model for Raw Audio (DeepMind Blog)](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
@@ -99,6 +97,7 @@ WaveNet 학습시간이 너무 오래 걸려서 멀티 GPU를 이용하지 않�
 
 ### Articles
 * [Tacotron 2: Generating Human-like Speech from Text (Google Research Blog)](https://research.googleblog.com/2017/12/tacotron-2-generating-human-like-speech.html)
+
 ### Source Code
 * https://github.com/riverphoenix/tacotron2 (구현됨)
 * https://github.com/Rayhane-mamah/Tacotron-2 (구현중)
@@ -108,6 +107,17 @@ WaveNet 학습시간이 너무 오래 걸려서 멀티 GPU를 이용하지 않�
 * https://github.com/maozhiqiang/tacotron_cn (구현 확인 필요/중국어)
 * https://github.com/LGizkde/Tacotron2_Tao_Shujie (체크 필요)
 * https://github.com/ruclion/tacotron_with_style_control (Style Control)
+
+## HybridNet
+* [HybridNet: A Hybrid Neural Architecture to Speed-up Autoregressive Models (2018.02)](https://openreview.net/forum?id=rJoXrxZAZ) - Yanqi Zhou et al.
+  * WaveNet을 이용해 오디오 컨텍스트를 뽑아내고, 그 컨텍스트로부터 LSTM을 이용해 다음 샘플들을 더 빠르게 생성하도록 했다고 함. WaveNet보다 MOS가 높고, 오디오 생성속도는 동일 음질수준 대비 2~4배까지 빠르다고 함. (예: 40-layer WAVENET vs. 20-layer WAVENET + 1 LSTM)
+
+## ClariNet
+* [ClariNet: Parallel Wave Generation in End-to-End Text-to-Speech (2018.07)](https://arxiv.org/abs/1807.07281) - Wei Ping et al.
+  * Gaussian autoregressive WaveNet을 teacher-net으로 하고 Gaussian
+inverse autoregressive flow을 student-net으로 하여 highly picked distribution에 대해 Regularized KL divergence를 최소화 했다고 함. 
+  * End-to-end로 음성을 생성하는 text-to-wave 아키텍쳐를 제안.
+* [Sound demos for "ClariNet: Parallel Wave Generation in End-to-End Text-to-Speech"](https://clarinet-demo.github.io/)
 
 ## Voice Cloning
 * [ISPEECH VOICE CLONING DEMOS](https://www.ispeech.org/voice-cloning)
