@@ -8,6 +8,8 @@
   * WaveNet에 대해 이해한 것을 설명 및 온라인 토론내용이 담긴 영상
 * [Generative Model-Based Text-to-Speech Synthesis (Heiga Zen, 2017.02)](https://youtu.be/nsrSrYtKkT8)
   * WaveNet 논문 저자 중 1명인 Heiga Zen이 소개하는 TTS 전반적인 기술 및 WaveNet 소개 영상
+* [딥러닝, 사랑하는 사람의 목소리로 말하다](https://popntalk.wordpress.com/2018/03/27/deep-learning-voice-of-loved-ones/) - 팝톡 블로그, 2018.03.27.
+  * AIA 생명의 캠페인 동영상 '마지막 인사' 및 음성합성기술에 대한 블로그 포스트 
   
 ## Dataset
 * [CMU_ARCTIC (en)](http://festvox.org/cmu_arctic/)
