@@ -117,11 +117,17 @@ WaveNet 학습시간이 너무 오래 걸려서 멀티 GPU를 이용하지 않�
   * Gaussian autoregressive WaveNet을 teacher-net으로 하고 Gaussian
 inverse autoregressive flow을 student-net으로 하여 highly picked distribution에 대해 Regularized KL divergence를 최소화 했다고 함. 
   * End-to-end로 음성을 생성하는 text-to-wave 아키텍쳐를 제안.
+
+### Articles
+* [ClariNet: Parallel Wave Generation in End-to-End Text-to-Speech](http://research.baidu.com/Blog/index-view?id=106) - Baidu Research, 2018.07.20. 
+
+### Demo
 * [Sound demos for "ClariNet: Parallel Wave Generation in End-to-End Text-to-Speech"](https://clarinet-demo.github.io/)
 
 ## Voice Cloning
 * [ISPEECH VOICE CLONING DEMOS](https://www.ispeech.org/voice-cloning)
   * 유명한 사람들의 voice cloning 데모를 들어볼 수 있음
+
 ### Paper
 * [Neural Voice Cloning with a Few Samples (2018.02)](https://arxiv.org/abs/1802.06006)
 
