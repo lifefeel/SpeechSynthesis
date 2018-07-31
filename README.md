@@ -138,6 +138,11 @@ inverse autoregressive flow을 student-net으로 하여 highly picked distributi
 ### Paper
 * [Neural Voice Cloning with a Few Samples (2018.02)](https://arxiv.org/abs/1802.06006)
 
+## API Service
+* [Google Cloud Text-to-Speech API - WaveNet](https://cloud.google.com/text-to-speech/docs/wavenet)
+  * WaveNet을 이용한 음성합성기술을 API로 제공. [가격](https://cloud.google.com/text-to-speech/pricing)은 WaveNet과 비 WaveNet이 표면적으로는 4배가량 차이가 난다. 무료 사용량의 차이도 있으므로 실제로는 4배 이상으로 보이며 가격적으로만 봐도 하드웨어적인 오버헤드가 크다는 것을 알 수 있다.
+  * 다양한 [음성](https://cloud.google.com/text-to-speech/docs/voices)을 제공하지만 아쉽게도 아직은 한국어는 1개의 음성만 지원하며 한국어 WaveNet 음성은 아직 없다. (2018.07.31. 기준)
+
 ## Speed Up 전략
 * [Fast Generation for Convolutional Autoregressive Models (2017.04)](https://arxiv.org/abs/1704.06001) - Prajit Ramachandran et al.
   * 이 기법을 Wavenet과 PixelCNN++ 모델에 적용하여 각각 최대 21배, 183배의 속도향상이 있었다고 함. 어디까지나 특정 상황에 대한 성능향상 최대치 이므로 실제 환경에서는 속도향상이 생각보다 크지 않을 수 있다는 것에 주의 필요.
