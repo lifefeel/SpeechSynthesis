@@ -140,8 +140,12 @@ inverse autoregressive flow을 student-net으로 하여 highly picked distributi
 
 ## API Service
 * [Google Cloud Text-to-Speech API - WaveNet](https://cloud.google.com/text-to-speech/docs/wavenet)
-  * WaveNet을 이용한 음성합성기술을 API로 제공. [가격](https://cloud.google.com/text-to-speech/pricing)은 WaveNet과 비 WaveNet이 표면적으로는 4배가량 차이가 난다. 무료 사용량의 차이도 있으므로 실제로는 4배 이상으로 보이며 가격적으로만 봐도 하드웨어적인 오버헤드가 크다는 것을 알 수 있다.
-  * 다양한 [음성](https://cloud.google.com/text-to-speech/docs/voices)을 제공하지만 아쉽게도 아직은 한국어는 1개의 음성만 지원하며 한국어 WaveNet 음성은 아직 없다. (2018.07.31. 기준)
+  * WaveNet을 이용한 음성합성기술을 API로 제공. [가격](https://cloud.google.com/text-to-speech/pricing)은 WaveNet과 비 WaveNet이 표면적으로는 4배가량 차이가 남. 무료 사용량의 차이도 있으므로 실제로는 4배 이상으로 보이며 가격적으로만 봐도 하드웨어적인 오버헤드가 크다는 것을 알 수 있음.
+  * 다양한 [음성](https://cloud.google.com/text-to-speech/docs/voices)을 제공하지만 아쉽게도 아직은 한국어는 1개의 음성만 지원하며 한국어 WaveNet 음성은 아직 없음. (2018.07.31. 기준)
+
+## SSML
+* [Speech Synthesis Markup Language (SSML)](https://www.w3.org/TR/speech-synthesis/)
+  * W3C에서 정의한 Speech Synthesis 마크업 언어. 합성할 텍스트에 발음, 볼륨, 음높이, 속도 등을 제어할 수 있도록 정의할 수 있음. 구글 TTS API에서도 [SSML](https://cloud.google.com/text-to-speech/docs/ssml)을 지원함.
 
 ## Speed Up 전략
 * [Fast Generation for Convolutional Autoregressive Models (2017.04)](https://arxiv.org/abs/1704.06001) - Prajit Ramachandran et al.
