@@ -126,6 +126,11 @@ inverse autoregressive flow을 student-net으로 하여 highly picked distributi
 ### Demo
 * [Sound demos for "ClariNet: Parallel Wave Generation in End-to-End Text-to-Speech"](https://clarinet-demo.github.io/)
 
+## Audio Systhesis
+### Nsynth
+* Demo : [NSynth: Neural Audio Synthesis](https://magenta.tensorflow.org/nsynth)
+* Paper : [Neural Audio Synthesis of Musical Notes with WaveNet Autoencoders (2017.04)](https://arxiv.org/abs/1704.01279)
+
 ## Voice Cloning
 * [ISPEECH VOICE CLONING DEMOS](https://www.ispeech.org/voice-cloning)
   * 유명한 사람들의 voice cloning 데모를 들어볼 수 있음
