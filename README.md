@@ -20,6 +20,11 @@
   * Blizzard Challenge 2012라는 코퍼스기반 음성합성 챌린지에서 사용된 데이터셋
 * [CSTR VCTK Corpus (en)](http://homepages.inf.ed.ac.uk/jyamagis/page3/page58/page58.html)
   * English Multi-speaker Corpus for CSTR Voice Cloning Toolkit
+
+## Tools
+* [Festival Speech Synthesis System](http://festvox.org/festival/)
+  * University of Edinburgh에서 개발한 오픈소스 Text-to-Speech 시스템. 최신버전은 Festival 2.5이며 2017.12.25.에 릴리즈 됨. [온라인데모](http://www.cstr.ed.ac.uk/projects/festival/onlinedemo.html)에서 음성별로 들어볼 수 있음. 
+
 ### 한국어 코퍼스
 * [KSS Dataset: Korean Single speaker Speech Dataset](https://www.kaggle.com/bryanpark/korean-single-speaker-speech-dataset)
   
